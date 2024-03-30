@@ -1,1 +1,1 @@
-# cis512_react
+![Screenshot of Paint Application](public/canvasScreenshot.png)
