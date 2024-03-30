@@ -1,1 +1,1 @@
-![Screenshot of Paint Application](public/canvasScreenshot.png)
+![Screenshot of Paint Application](public/screenshot.png)
